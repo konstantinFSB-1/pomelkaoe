@@ -20,7 +20,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 I am a Java middle Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :computer: I work as a Java developer and create plugins, mods for Minecraft, as well as basic applications.
 
@@ -28,5 +28,4 @@ I am a Java middle Developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - :mortar_board: In my free time I continue to study.
 
-- :mailbox: How to contact me: [![ТГ]([(https://img.shields.io/badge/%D0%A2%D0%93?logo=%D0%A2%D0%93&logoColor=blue&labelColor=white&color=blue
-)](@pomelkaoe_True)
+- :mailbox: How to contact me: TG @pomelkaoe_True
