@@ -41,6 +41,9 @@ I am a Java middle Developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pomelkaoe&theme=dark&hide_border=true&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
+### :writing_hand: Blog Posts :
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 
