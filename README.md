@@ -44,6 +44,6 @@ I am a Java middle Developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-
+[Текст ссылки](https://dev.to/feed/pomelkaoe)
 <!-- BLOG-POST-LIST:END -->
 
