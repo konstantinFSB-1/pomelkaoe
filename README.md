@@ -29,3 +29,18 @@ I am a Java middle Developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 - :mortar_board: In my free time I continue to study.
 
 - :mailbox: How to contact me: TG @pomelkaoe_True
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pomelkaoe&theme=dark&hide_border=true&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
+
