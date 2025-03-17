@@ -1,49 +1,69 @@
-<div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1iZTg0Y21lYnI4OTIwaHFjdTY1bWtqdXBlY29tdWpzMjB4ZHExaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6FT3QE3AJMfwJDZBNr/giphy.gif" width="100"/>
-</div>
 
-<div id="badges" align="center">
-  
-  <a href="https://www.youtube.com/@pomelkaoe">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  
-</div>
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=pomelkaoe&style=flat-square&color=blue" alt=""/>
-  <h1>
-  Привет!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
+<br clear="both">
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
-### :man_technologist: About Me :
-I am a Java middle Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :computer: I work as a Java developer and create plugins, mods for Minecraft, as well as basic applications.
+###
 
-- :book: I study technical content writing.
+<h1 align="center">Привет👋 Меня зовут Никита!</h1>
 
-- :mortar_board: In my free time I continue to study.
+###
 
-- :mailbox: How to contact me: TG @pomelkaoe_True
+<div align="center">
+  <a href="https://www.youtube.com/@pomelkaoe" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://t.me/tehnomaniak07" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
 
----
+###
 
-### :hammer_and_wrench: Languages and Tools :
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pomelkaoe.pomelkaoe&"  />
+</div>
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;  
+###
+
+<h3 align="left">👩‍💻  Обо мне</h3>
+
+###
+
+<p align="left">Я Java разработчик. Я самоучка и во время учебы пробовал себя в разных направлениях: изучал язык Cи, Python, испытывал свои силы в Kotlin, но больше всего меня заинтересовала разработка на Java!<br><br>- 🔭 Участвовал в бассейне Школы 21 от Сбера.<br>- 📚 Имею опыт разработки на Java, используя Spring и Hibernate для создания веб-приложений.<br>- ⚡ Веду разработку плагинов для Minecraft, применяя свои знания в Java для создания уникального игрового опыта.</p>
+
+###
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+
+###
+
+
+###
+
+<h3 align="left">🛠 Технологии:</h3>
+
+###
+
+<div align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
 
----
+###
 
-### :writing_hand: Blog Posts :
+<h3 align="left">🔥   Моя статистика :</h3>
 
-<!-- BLOG-POST-LIST:START -->
-[Текст ссылки](https://dev.to/feed/pomelkaoe)
-<!-- BLOG-POST-LIST:END -->
+###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=pomelkaoe&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
